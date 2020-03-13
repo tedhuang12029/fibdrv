@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tedhuang12029/Documents/linuxClass/quiz2/fibdrv/xs.c
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
